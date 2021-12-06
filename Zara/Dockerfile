@@ -4,7 +4,7 @@ RUN git clone https://github.com/Raashii/bot-setting /root/WhatsAsenaDuplicated
 
 WORKDIR /root/WhatsAsenaDuplicated/
 
-RUN git clone https://github.com/ItIsHM/media-1
+RUN git clone https://github.com/ItIsHM/media
 
 ENV TZ=Europe/Istanbul
 
